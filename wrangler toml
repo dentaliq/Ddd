@@ -1,0 +1,8 @@
+name = "Ddd"
+main = "src/index.js"
+compatibility_date = "2025-08-25"
+
+# ممكن تخلي القيم فاضية وتضيفهم كـ Secrets من CLI أو Dashboard
+[vars]
+AB = ""
+BC = ""
